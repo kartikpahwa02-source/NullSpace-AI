@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+ollama
+pyautogui
+opencv-python
+pillow
+requests
+beautifulsoup4
+pydantic
+python-multipart
+aiofiles
+PyPDF2
+pytesseract

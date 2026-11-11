@@ -1,0 +1,17 @@
+﻿.venv/
+venv/
+env/
+NKJ_AI/
+__pycache__/
+*.pyc
+*.pth
+*.db
+*.dll
+*.so
+*.exe
+*.bin
+*.h5
+data/
+uploads/
+.env
+node_modules/
